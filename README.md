@@ -5,4 +5,4 @@
 - 👀 I’m interested in Web Development, AI
 - 📫 How to reach me - miro.georgiev06@gmail.com
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiGeorgiev06anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
